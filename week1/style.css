@@ -1,0 +1,22 @@
+body{
+    background-color: cornsilk;
+    text-align: center;
+}
+
+#demoButton{
+    background-color: rgb(130, 130, 231);
+    color: white;
+    font-size:larger;
+    border-radius: 0.5rem;
+}
+
+#para{
+    font-size:larger;
+}
+
+#demoButton:hover{
+    background-color: rgb(127, 72, 72);
+    box-shadow: 0px 0px 6px 4px rgb(217, 184, 184);
+}
+
+
